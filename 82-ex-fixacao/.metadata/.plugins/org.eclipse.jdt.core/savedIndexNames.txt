@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\luka9\Desktop\java-completo-nelioalves\82-ex-fixacao\.metadata\.plugins\org.eclipse.jdt.core
+1411550919.index
+1865797976.index
+2326776623.index
